@@ -12,4 +12,4 @@ The d-minimum branch problem is a NP-hard problem, which means that it is comput
 
 ## References
 
-[1] Moreno, J., Frota, Y., & Martins, S. (2018). An exact and heuristic approach for the d-minimum branch vertices problem. Computational Optimization and Applications, 71, 829-855.
+[1] Moreno, J., Frota, Y., & Martins, S. (2018). An exact and heuristic approach for the d-minimum branch vertices problem. *Computational Optimization and Applications*, 71, 829-855.
