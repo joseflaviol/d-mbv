@@ -1,6 +1,6 @@
-# d-minimum branch problem
+# d-Minimum Branch Vertices problem
 
-This repository contains code for solving the d-minimum branch problem.
+This repository contains code for solving the d-Minimum Branch Vertices problem.
 
 ## Problem statement
 
